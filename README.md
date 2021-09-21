@@ -1,6 +1,6 @@
 JavaScript-Based-14.02-14.03.2021
 
-Базовый курс JavaScript
+****Базовый курс JavaScript****
 
 Урок 1. Основы языка JavaScript
 
